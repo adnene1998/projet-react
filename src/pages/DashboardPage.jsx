@@ -5,7 +5,7 @@ const DashboardPage = () => {
   // Ces valeurs peuvent venir d'une API ou d'un state global
   const stats = {
     produits: 120,
-    client: 45,
+    client: 100,
     categories: 8,
   };
 
